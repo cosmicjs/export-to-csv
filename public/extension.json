@@ -1,5 +1,5 @@
 {
 	"title": "Export to CSV",
-	"font_awesome_class": "file-csv",
+	"font_awesome_class": "fa-file-text-o",
 	"image_url": "https://s3-us-west-2.amazonaws.com/cosmicjs/e3dfe870-732f-11e9-a54a-7f96bf56c48e-5b056dc79c.png"
 }
