@@ -89,8 +89,6 @@ function App() {
 
 	return (
 		<Pane
-			background="tint2"
-			border="muted"
 			padding={10}
 		>
 			<Heading
@@ -108,7 +106,6 @@ function App() {
 			</Paragraph>
 			<Pane
 				display="flex"
-				background="tint2"
 				borderRadius={3}
 				marginBottom={12}
 			>
@@ -146,7 +143,6 @@ function App() {
 					<Pane
 						key={objectType.slug}
 						display="flex"
-						background="tint2"
 						borderRadius={3}
 						marginBottom={12}
 					>
