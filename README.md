@@ -1,6 +1,6 @@
 # Cosmic JS To CSV Extension
 
-![Cosmic JS](./assets/csv-export.png)
+![Cosmic JS](https://cosmic-s3.imgix.net/1f436f20-7bde-11e9-93c7-d1a8b031d015-Screen-Shot-2019-05-21-at-10.23.36-AM.png?w=1600)
 
 The CosmicJS to CSV extension is a JAM-stack application that allows you to export your Buckets in a CSV format.
 The plugin also will automatically parse metadata fields as specified by the Object Type settings.
