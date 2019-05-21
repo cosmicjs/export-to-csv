@@ -2,5 +2,5 @@
 	"title": "Export to CSV",
 	"font_awesome_class": "fa-file-excel-o",
 	"image_url": "https://s3-us-west-2.amazonaws.com/cosmicjs/e3dfe870-732f-11e9-a54a-7f96bf56c48e-5b056dc79c.png",
-	"github_repo": "https://github.com/cosmicjs/export-to-csv"
+	"repo_url": "https://github.com/cosmicjs/export-to-csv"
 }
