@@ -8,6 +8,7 @@ The plugin also will automatically parse metadata fields as specified by the Obj
 ## Installing
 
 ### Cosmic App Store
+[Install Extension](https://cosmicjs.com/extensions/export-to-csv)
 
 ### Manually build
 
