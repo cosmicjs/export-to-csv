@@ -12,8 +12,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "GENERATE_SOURCEMAP=false react-scripts build",
-    "postbuild": "bestzip build.zip ./build/*",
+    "build": "react-scripts build",
+    "export": "npm run build && cp extension.json build/extension.json && zip -r extension.zip build",
     "test": "react-scripts test"
   },
   "eslintConfig": {
